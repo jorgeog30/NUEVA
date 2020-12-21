@@ -29,61 +29,61 @@ http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=6730
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26338&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Super Movie 10" tvg-logo="" group-title="SPANISH",Super Movie 10
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26339&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 1" tvg-logo="" group-title="SPANISH",Netflix 1
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 1" tvg-logo="" group-title=" Netflix ",Netflix 1
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26282&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 2" tvg-logo="" group-title="SPANISH",Netflix 2
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 2" tvg-logo="" group-title=" Netflix ",Netflix 2
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26283&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 3" tvg-logo="" group-title="SPANISH",Netflix 3
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 3" tvg-logo="" group-title="Netflix",Netflix 3
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26284&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 4" tvg-logo="" group-title="SPANISH",Netflix 4
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4" tvg-logo="" group-title="Netflix",Netflix 4
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26285&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 5" tvg-logo="" group-title="SPANISH",Netflix 5
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 5" tvg-logo="" group-title="Netflix",Netflix 5
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26288&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 6" tvg-logo="" group-title="SPANISH",Netflix 6
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 6" tvg-logo="" group-title="Netflix",Netflix 6
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26289&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 7" tvg-logo="" group-title="SPANISH",Netflix 7
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 7" tvg-logo="" group-title="Netflix",Netflix 7
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26311&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 8" tvg-logo="" group-title="SPANISH",Netflix 8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 8" tvg-logo="" group-title="Netflix",Netflix 8
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26312&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 9" tvg-logo="" group-title="SPANISH",Netflix 9
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 9" tvg-logo="" group-title="Netflix",Netflix 9
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26313&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="" group-title="SPANISH",Netflix 10
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="" group-title="Netflix",Netflix 10
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26314&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 1" tvg-logo="" group-title="SPANISH",New Alquiler 4K 1
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 1" tvg-logo="" group-title="Alquiler",New Alquiler 4K 1
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26182&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 2" tvg-logo="" group-title="SPANISH",New Alquiler 4K 2
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 2" tvg-logo="" group-title=" Alquiler ",New Alquiler 4K 2
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26183&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 3" tvg-logo="" group-title="SPANISH",New Alquiler 4K 3
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 3" tvg-logo="" group-title=" Alquiler ",New Alquiler 4K 3
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26184&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 4" tvg-logo="" group-title="SPANISH",New Alquiler 4K 4
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 4" tvg-logo="" group-title="Alquiler ",New Alquiler 4K 4
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26185&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 5" tvg-logo="" group-title="SPANISH",New Alquiler 4K 5
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 5" tvg-logo="" group-title="Alquiler",New Alquiler 4K 5
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26186&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 6" tvg-logo="" group-title="SPANISH",New Alquiler 4K 6
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 6" tvg-logo="" group-title="Alquiler",New Alquiler 4K 6
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26187&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 1" tvg-logo="" group-title="SPANISH",New Alquiler 1
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 1" tvg-logo="" group-title="Alquiler",New Alquiler 1
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26143&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 2" tvg-logo="" group-title="SPANISH",New Alquiler 2
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 2" tvg-logo="" group-title="Alquiler",New Alquiler 2
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26144&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 3" tvg-logo="" group-title="SPANISH",New Alquiler 3
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 3" tvg-logo="" group-title="Alquiler",New Alquiler 3
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26145&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4" tvg-logo="" group-title="SPANISH",New Alquiler 4
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4" tvg-logo="" group-title="Alquiler",New Alquiler 4
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26146&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 5" tvg-logo="" group-title="SPANISH",New Alquiler 5
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 5" tvg-logo="" group-title="Alquiler",New Alquiler 5
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26147&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 6" tvg-logo="" group-title="SPANISH",New Alquiler 6
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 6" tvg-logo="" group-title="Alquiler",New Alquiler 6
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26148&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 7" tvg-logo="" group-title="SPANISH",New Alquiler 7
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 7" tvg-logo="" group-title="Alquiler",New Alquiler 7
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26149&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 8" tvg-logo="" group-title="SPANISH",New Alquiler 8
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 8" tvg-logo="" group-title="Alquiler",New Alquiler 8
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26173&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 9" tvg-logo="" group-title="SPANISH",New Alquiler 9
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 9" tvg-logo="" group-title="Alquiler",New Alquiler 9
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26174&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 10" tvg-logo="" group-title="SPANISH",New Alquiler 10
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 10" tvg-logo="" group-title="Alquiler",New Alquiler 10
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26201&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 11" tvg-logo="" group-title="SPANISH",New Alquiler 11
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 11" tvg-logo="" group-title=" Alquiler",New Alquiler 11
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26202&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 12" tvg-logo="" group-title="SPANISH",New Alquiler 12
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 12" tvg-logo="" group-title=" Alquiler",New Alquiler 12
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26203&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="New Alquiler 13" tvg-logo="" group-title="SPANISH",New Alquiler 13
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26204&t=live&f=ts
@@ -115,25 +115,25 @@ http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=6730
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26232&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="New Alquiler 27" tvg-logo="" group-title="SPANISH",New Alquiler 27
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26233&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 28" tvg-logo="" group-title="SPANISH",New Alquiler 28
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 28" tvg-logo="" group-title="Alquiler",New Alquiler 28
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26234&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 29" tvg-logo="" group-title="SPANISH",New Alquiler 29
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 29" tvg-logo="" group-title="Alquiler",New Alquiler 29
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26235&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 30" tvg-logo="" group-title="SPANISH",New Alquiler 30
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 30" tvg-logo="" group-title="Alquiler",New Alquiler 30
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26236&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 31" tvg-logo="" group-title="SPANISH",New Alquiler 31
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 31" tvg-logo="" group-title="Alquiler",New Alquiler 31
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26240&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 32" tvg-logo="" group-title="SPANISH",New Alquiler 32
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 32" tvg-logo="" group-title="Alquiler",New Alquiler 32
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26241&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 33" tvg-logo="" group-title="SPANISH",New Alquiler 33
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 33" tvg-logo="" group-title=" Alquiler ",New Alquiler 33
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26242&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 34" tvg-logo="" group-title="SPANISH",New Alquiler 34
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 34" tvg-logo="" group-title=" Alquiler ",New Alquiler 34
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26244&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 35" tvg-logo="" group-title="SPANISH",New Alquiler 35
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 35" tvg-logo="" group-title=" Alquiler ",New Alquiler 35
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26245&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 36" tvg-logo="" group-title="SPANISH",New Alquiler 36
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 36" tvg-logo="" group-title=" Alquiler ",New Alquiler 36
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26243&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 37" tvg-logo="" group-title="SPANISH",New Alquiler 37
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 37" tvg-logo="" group-title=" Alquiler ",New Alquiler 37
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26273&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 1" tvg-logo="" group-title="SPANISH",movistar infantiles 1
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26205&t=live&f=ts
@@ -685,45 +685,45 @@ http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=6730
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26163&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 ESP" tvg-logo="" group-title="SPANISH",DAZN 4 ESP
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26164&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ESP" tvg-logo="" group-title="SPANISH",DAZN 5 ESP
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ESP" tvg-logo="" group-title="DAZN",DAZN 5 ESP
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26171&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26299&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26300&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26301&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26302&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26303&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26304&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26305&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26306&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26307&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 11 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="SPANISH",DAZN 11 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 11 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="DAZN",DAZN 11 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=26308&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 1  (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 1  (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 1  (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES",LALIGA TV BAR 1  (SOLO EVENTOS)
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=423&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 2" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 2
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 2" tvg-logo="" group-title="DEPORTES",LALIGA TV BAR 2
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=24931&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 3" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 3
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 3" tvg-logo="" group-title="DEPORTES",LALIGA TV BAR 3
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=24930&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 4  (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 4  (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 4  (SOLO EVENTOS)" tvg-logo="" group-title="DEPORTES",LALIGA TV BAR 4  (SOLO EVENTOS)
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=422&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="SPANISH",EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="DEPORTES",EUROSPORT 1 HD
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=352&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1 FULL HD" tvg-logo="" group-title="SPANISH",EUROSPORT1 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT1 FULL HD" tvg-logo="" group-title="DEPORTES",EUROSPORT1 FULL HD
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=3794&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="SPANISH",EUROSPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="DEPORTES",EUROSPORT 2
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=414&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTESHD" tvg-logo="" group-title="SPANISH",M. DEPORTESHD
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTESHD" tvg-logo="" group-title="DEPORTES",M. DEPORTESHD
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=359&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES FULL HD" tvg-logo="" group-title="SPANISH",M. DEPORTES FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES FULL HD" tvg-logo="" group-title="DEPORTES",M. DEPORTES FULL HD
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=3800&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES1HD (SOLO EVENTOS)
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=997&u=L0qlvszsfo&s=673033474617&id=427&t=live&f=ts
@@ -1128,3 +1128,4 @@ http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=999&u=L0qlvszsfo&s=6730
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=999&u=L0qlvszsfo&s=673033474617&id=3916&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport NBA 4K" tvg-logo="" group-title="BEINSPORT",Bein Sport NBA 4K
 http://u3m0AyGg4xazwldRvj.c2e3n4te5r6.me/live/cra4.php?z=999&u=L0qlvszsfo&s=673033474617&id=3917&t=live&f=ts
+
